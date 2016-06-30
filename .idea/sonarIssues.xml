@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/VuCrew/webserver/app/core/src/main/java/com/axamit/vucrew/domain/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/VuCrew/webserver/app/core/src/main/java/com/axamit/vucrew/domain/devices/IOSDevice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/VuCrew/webserver/app/core/src/main/java/com/axamit/vucrew/services/CrewInvitationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/VuCrew/webserver/app/core/src/main/java/com/axamit/vucrew/services/impl/BaseInvitationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/VuCrew/webserver/app/core/src/main/java/com/axamit/vucrew/services/impl/CrewInvitationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/VuCrew/webserver/app/web/src/main/java/com/axamit/vucrew/web/api/controllers/crew/CrewSentInvitationController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/maven-create-a-jar/dateUtils/dateUtils.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/obtaining-AEM-sites.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/axamit/core/main/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/axamit/core/service/AnalizeSiteService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/axamit/core/service/AnalyzeSiteService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/axamit/core/service/BigQuery.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/axamit/core/service/DatabaseUpdateService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/axamit/core/service/DownloadZipFile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/mkyong/core/utils/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/axamit/core/main/AppTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
